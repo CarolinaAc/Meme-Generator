@@ -2,6 +2,9 @@
 
 ## Tools:
   React
+  
+## Deployed:
+  [GitHub](https://carolinaac.github.io/Meme-Generator/)
 
 ## Updates / To do:
   1. Simplify code by using Hooks
